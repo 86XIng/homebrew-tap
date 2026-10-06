@@ -1,6 +1,6 @@
 cask "paste-all" do
-  version "0.1.0"
-  sha256 "5c647ed55941dcb0a03977c10a7ca8fd67b97d20a208bcd62e48d0b0702fd140"
+  version "0.1.1"
+  sha256 "0304c72ac9081a43a5f55052f3e50d2bbbb810c3c17b9e8ceeb74bc520a2ad32"
 
   url "https://github.com/86XIng/PasteAll/releases/download/v#{version}/PasteAll-#{version}.zip"
   name "PasteAll"
